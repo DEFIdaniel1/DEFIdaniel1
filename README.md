@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @DEFIdaniel1
-- 👀 I’m interested in blockchain and web apps
-- 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on crypto projects, particularly DEFI
-- 📫 How to reach me: check my portfolio page! 
+# DEFIDaniel1
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEFIdaniel1)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEFIdaniel1&theme=tokyonight)
+<h1 align="center"> 👋 Hello World. I'm Daniel. </h1>
+
+<p align="center"
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoLisa&size=26&duration=4500&pause=100&color=58F715&background=000000&center=true&vCenter=true&width=435&lines=Blockchain.+Web3.+dApps.;Full-Stack+Web+Developer.)](https://git.io/typing-svg)
+
+<h2 align="center">Continuous Learner. Pixel Perfectionist.</h2>
+
+   <hr>
+   
+Project collaboration? Other opportunity? Let's connect! 
+
+
+
+</p>
+
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="50%" align="right"/>
+                                              
+![defiDaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEFIdaniel1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEFIdaniel1&theme=tokyonight)
+
+</p>
