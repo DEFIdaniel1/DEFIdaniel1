@@ -3,8 +3,6 @@
 <h1 align="center"> 👋 Hello World. I'm Daniel. </h1>
 
 <div align="center"
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=57A6F7&width=435&lines=Web3.+Full-Stack+Developer.+;dApps.+DeFi.+Decentralization.)](https://git.io/typing-svg)
 
 <h2 align="center">Continuous Learner. Pixel Perfectionist.</h2>
 
