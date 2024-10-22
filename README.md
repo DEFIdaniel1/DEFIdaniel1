@@ -42,13 +42,4 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-![defiDaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEFIdaniel1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEFIdaniel1&theme=tokyonight)
-</div>
-                                              
-<h2>Check out My Portfolio</h2>
-<a href="https://digitaldaniel.dev" ><img src="https://i.ibb.co/56PsgnG/daniel-portfolio.png" alt="daniel-portfolio" border="0"></a>
-
-
-
 
